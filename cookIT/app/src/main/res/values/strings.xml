@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">CookIT</string>
+    <string name="task_text_empty_error">cannot be empty</string>
+    <string name="ingredient_amount_error">Please enter the amount.</string>
+    <string name="cannot_be_empty">Cannot be empty</string>
+    <string name="clear">Clear</string>
+    <string name="cancel">Cancel</string>
+    <string name="select">Select</string>
+    <string name="date">Date</string>
+    <string name="welcome_to">Welcome to </string>
+    <string name="intro_text_1">This is the best app for saving your favorite recipes.</string>
+    <string name="intro_text_2">You can make shopping list or plan your meals</string>
+    <string name="compose">App for every day life</string>
+    <string name="continue_to_app">Continue</string>
+    <string name="task_text">Task text</string>
+    <string name="map">Map</string>
+    <string name="save_location">Save location</string>
+    <string name="marker_help">Hold your finger on Marker to move it</string>
+    <string name="location">Location</string>
+    <string name="app_version">App Version: %1$s</string>
+    <string name="name">Name</string>
+    <string name="amount">Amount</string>
+    <string name="unit">Unit</string>
+    <string name="please_select_a_unit">Please select a unit</string>
+    <string name="save">Save</string>
+    <string name="you_have_no_ingredients">You have no ingredients.</string>
+    <string name="add_your_first_recipe">Add your first recipe.</string>
+    <string name="you_have_no_recipes_to_search_from">You have no recipes to search from.</string>
+    <string name="no_recipe_matches">No recipe matches the entered ingredients</string>
+    <string name="change_add_photo">Change/Add Photo</string>
+    <string name="add_ingredient">+ Add Ingredient</string>
+    <string name="save_recipe">Save Recipe</string>
+    <string name="no_ingredients_added">No ingredients added.</string>
+    <string name="add_to_shopping_list">Add to shopping list</string>
+    <string name="schedule_a_recipe">Schedule a recipe</string>
+    <string name="add_edit_title">Add/Edit recipe.</string>
+    <string name="yes">Yes</string>
+    <string name="delete_recipe">Delete recipe</string>
+    <string name="delete_recipe_dialogue">Are you sure you want to delete this recipe</string>
+    <string name="recipe_title">Recipe title</string>
+    <string name="photo">Photo</string>
+    <string name="preparation_procces">Preparation Process</string>
+    <string name="new_ingredient">New Ingredient</string>
+    <string name="g">g</string>
+    <string name="kg">Kg</string>
+    <string name="ml">ml</string>
+    <string name="l">l</string>
+    <string name="pcs">pcs</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="planned_recipes">Planned recipes</string>
+    <string name="selected_day">Selected day: </string>
+    <string name="no_recipes_for_this_day">No recipes for this day.</string>
+    <string name="my_recipe">My recipes</string>
+    <string name="recipe_detail">Recipe Detail</string>
+    <string name="no_image">No image</string>
+    <string name="no_preparation_procces">No preparation process provided.</string>
+    <string name="enter_the_ingredients">Enter the ingredients</string>
+    <string name="shopping_list">Shopping list</string>
+
+
+
+
+
+</resources>
